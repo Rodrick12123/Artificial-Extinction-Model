@@ -1,4 +1,4 @@
-# Final Project
+# Extinction Model
 **Professional Contributor: Anya Vostinar**
 **Group:** Vic Lankford, Sam Lengyel, Kai Weiner </br>
 **Paper:** https://www.journals.uchicago.edu/doi/10.1086/597228 </br>
